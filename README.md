@@ -8,7 +8,7 @@ Installation:
 
 Clone the Repository:
 
-Bash
+
 git clone https://github.com/atararushi001/articaltest.git
 Use code with caution.
 
